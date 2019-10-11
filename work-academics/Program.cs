@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace work_academics
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+    class Program{
+        static void Main(string[] args) {
         }
     }
 }
