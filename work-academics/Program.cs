@@ -10,7 +10,6 @@ namespace work_academics
     {
         static void Main(string[] args)
         {
-
         }
     }
 }
